@@ -13,6 +13,4 @@ MonoBehaviour:
   m_Name: VFXContainer
   m_EditorClassIdentifier: 
   slideVFXs:
-  - {fileID: 198102947330367454, guid: cb000036283a7b240807d4a9fa989069, type: 3}
-  - {fileID: 198133411493245646, guid: d5a011124e8d56f429a3d23c4420bdbd, type: 3}
   - {fileID: 198759024405771298, guid: ae91537edf47d13498977a9722e13875, type: 3}
