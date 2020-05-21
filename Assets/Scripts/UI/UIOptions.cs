@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class UIOptions : MonoBehaviour
 {
+    [Header("UI parts")]
     public Slider cameraVerticalSpeedSlider;
     public Slider cameraHorizontalSpeedSlider;
 

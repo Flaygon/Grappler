@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class UIGame : MonoBehaviour
 {
+    [Header("UI parts")]
     public Button lockCursorButton;
 
     private void OnEnable()
