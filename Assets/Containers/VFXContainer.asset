@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8641629a5ea894ca54a59f23627e8b, type: 3}
+  m_Name: VFXContainer
+  m_EditorClassIdentifier: 
+  slideVFXs:
+  - {fileID: 198102947330367454, guid: cb000036283a7b240807d4a9fa989069, type: 3}
+  - {fileID: 198133411493245646, guid: d5a011124e8d56f429a3d23c4420bdbd, type: 3}
+  - {fileID: 198759024405771298, guid: ae91537edf47d13498977a9722e13875, type: 3}
